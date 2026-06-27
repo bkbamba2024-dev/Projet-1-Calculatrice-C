@@ -41,8 +41,7 @@ Projet-1-Calculatrice-C/
 ├── Calculatrice.c
 ├── README.md
 ├── Rapport_Projet1.pdf
-├── Fiche_revision_Projet1.pdf
-└── captures/
+└── Fiche_revision_Projet1.pdf
 ```
 
 ## Améliorations possibles
