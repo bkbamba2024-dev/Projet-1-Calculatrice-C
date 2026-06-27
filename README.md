@@ -36,7 +36,7 @@ L'objectif de ce projet est de mettre en pratique les notions fondamentales du l
 ## Structure du projet
 
 Projet-1-Calculatrice-C/
-│
+
 ├── Calculatrice.c
 ├── README.md
 ├── Rapport_Projet1.pdf
