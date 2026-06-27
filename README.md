@@ -55,5 +55,5 @@ Projet-1-Calculatrice-C/
 
 **Bamba Karidjatou**
 
-Étudiante en Génie Informatique
+Étudiante en deuxième année des classes préparatoires intégrées.
 Ce projet a été réalisé dans le cadre de mon apprentissage du langage C.
