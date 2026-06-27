@@ -24,35 +24,36 @@ L'objectif de ce projet est de mettre en pratique les notions fondamentales du l
 ## Compétences développées
 
 * Déclaration et utilisation des variables
-* Entrées et sorties ( printf , scanf )
-* Conditions ( if, else )
-* Structure switch
-* Boucle do...while
+* Entrées et sorties (`printf`, `scanf`)
+* Conditions (`if`, `else`)
+* Structure `switch`
+* Boucle `do...while`
 * Création et utilisation de fonctions
 * Passage de paramètres
-* Valeur de retour ( return )
+* Valeur de retour (`return`)
 * Gestion des erreurs
 
 ## Structure du projet
 
+```text
 Projet-1-Calculatrice-C/
-
+│
 ├── Calculatrice.c
 ├── README.md
 ├── Rapport_Projet1.pdf
 ├── Fiche_revision_Projet1.pdf
 └── captures/
+```
 
 ## Améliorations possibles
 
 * Ajouter des opérations mathématiques supplémentaires.
-* Séparer le programme en plusieurs fichiers source (.c) et d'en-tête (.h).
+* Séparer le programme en plusieurs fichiers source (`.c`) et d'en-tête (`.h`).
 * Développer une interface graphique.
 
 ## Auteur
 
 **Bamba Karidjatou**
 
-Étudiante en deuxième année des classes préparatoires intégrées.
+Étudiante en Génie Informatique
 Ce projet a été réalisé dans le cadre de mon apprentissage du langage C.
-
